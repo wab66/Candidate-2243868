@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: Confirm whether a visa is required to visit the UK
+-------------------------------------------------------------------------------
+Tests run: 0, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0 s - in Confirm whether a visa is required to visit the UK
